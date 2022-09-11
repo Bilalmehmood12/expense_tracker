@@ -4,8 +4,8 @@
  
  ## Preview
  
- https://user-images.githubusercontent.com/57256214/185744587-c28670cd-bd00-4033-a03b-11dc6342cc4d.mp4
- 
+https://user-images.githubusercontent.com/57256214/189512593-9d5fd7dd-31fc-4ef0-9641-a6e513936a94.mp4
+
  ## Features
  
   **1.** App has ***sqflite*** as local database.
