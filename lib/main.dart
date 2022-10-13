@@ -1,7 +1,6 @@
 import 'package:expense_tracker/ui/splash_screen.dart';
 import 'package:flutter/material.dart';
 
-import 'ui/home_page.dart';
 
 void main() {
   runApp(MaterialApp(
