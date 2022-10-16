@@ -4,7 +4,7 @@
  
  ## Preview
  
-https://user-images.githubusercontent.com/57256214/189512593-9d5fd7dd-31fc-4ef0-9641-a6e513936a94.mp4
+https://user-images.githubusercontent.com/57256214/196043867-a0f310b0-cfed-493a-b282-e7d505a35caa.mp4
 
  ## Features
  
